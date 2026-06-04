@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="./assets/logo.png" width="50" style="vertical-align: middle; margin-right: -8px;" />
-  EviNote-RAG: Enhancing RAG Models via Answer-Supportive Evidence Notes
+  EviNote-RAG: Enhancing RAG Models via Answer-Supportive Evidence Notes-47stars
 </h1>
 
 <div align="center">
